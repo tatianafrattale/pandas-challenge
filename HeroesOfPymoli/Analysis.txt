@@ -1,0 +1,8 @@
+Heroes of Pymoli Purchase Data Analysis
+
+After analyzing the purchase data we can conclude that the majority of the company's customers are overwhelmingly male, making up 84% of the active players. Yet interestingly enough, female players have a higher average purchase price and a higher total purchase per person than their male counterparts.
+
+The main age demographic for this video game is 20-24 year olds, making up 44.79% of players. The next largest age group is 15-19 year olds at 18.58%. However, the age group with the highest average purchase price and highest total purchase per person is the 35-39 age group.
+
+The most popular and the most profitable game the company sells is Final Critic, being purchased 13 times and having a total purchase value of $59.99. It is interesting to note that the most popular items are not all the most profitable, despite having the highest purchase counts. Video games with higher item prices tend to be more profitable even if they aren't the most sold game. 
+
